@@ -1,4 +1,4 @@
-# Travel List
+# travelList
 
 A travel list where you can add, check and delete items. You can also sort the list.
 
